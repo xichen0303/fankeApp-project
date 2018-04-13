@@ -1,0 +1,207 @@
+body,h1,h2,h3,h4,h5,h6,p,a,input,img,ul,li,ol,dl,dt,dd{padding:0;margin:0;}
+li{list-style:none;}
+img{display:block;border:0;}
+header,footer,section,nav{display:block;}
+body{color:#3e3e3e;}
+a{text-decoration:none;}
+*{box-sizing:border-box;}
+html,body{
+  height: 100%;
+  /*font-size: 26.67vw;*/
+      font-size: 11.25px;
+  }
+  h1, h2 {
+  font-weight: normal;
+  height: 4rem;
+  font-size:2rem;
+  background: green;
+}
+.others-content {
+    position: relative;
+    top: 0rem;
+    max-width: 640px;
+    width: 100%;
+    height: 128rem;
+    background-color: #fff;
+    line-height: 1.5;
+}
+.list-tab {
+    margin: 2px 0;
+}
+.list_page{
+	height: 100%;
+}
+
+.clearfix, .clear {
+    zoom: 1;
+}
+.list-tab li{
+  width: 25%;
+  float: left;
+}
+.list-tab li {
+    float: left;
+    background: #fff;
+    width: 25%;
+    overflow: hidden;
+    text-align: center;
+    padding: 1em 0;
+    display: block;
+    text-decoration: none;
+    color: #4c4c4c;
+    font-size: 1.3em;
+    line-height: 0.5em;
+}
+.list-tab .active {
+    color: #b81b22;
+}
+
+.list-tab li a {
+    margin-right: 2px;
+  }
+  .list-tab .price-bg {
+    position: absolute;
+    width: .6em;
+    height: 1em;
+}
+
+.price  {
+      text-align: right;
+  display: inline-block;
+  float: left;
+}
+.price img{
+    display: inline-block;
+    float: right;
+    margin-top:-0.2em;
+}
+.unit .left {
+    float: left;
+    width: 50%;
+    margin-left: -1px;
+    background: #fff;
+}
+.unit .right {
+    float: right;
+    width: 50%;
+    margin-right: -1px;
+    background: #fff;
+}
+img {
+    max-width: 100%;
+}
+.unit .pic {
+    padding: 1.75em;
+}
+
+.unit a {
+    display: block;
+}
+.lh0 {
+    line-height: 0;
+}
+.unit .text {
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+}
+.unit .text, .unit .price {
+    color: #4c4c4c;
+    text-align: center;
+}
+.unit a {
+    display: block;
+}
+.unit .sh-price{
+    font-size: 1.2em;
+    line-height: 1.5em;
+}
+.unit .text, .unit .sh-price {
+    color: #4c4c4c;
+    text-align: center;
+}
+.sh-price{
+  text-align: center;
+      font-weight: 400;
+}
+.huan {
+	position: absolute;
+	bottom:0 ;
+    text-align: center;
+    padding: 3.5em 0;
+}
+.clearfix, .clear {
+    zoom: 1;height: auto;
+}
+.huan_page .prev, .huan_page .next {
+    position: relative;
+    padding-left: 1.26em;
+    padding-right: 2.5em;
+}
+
+.huan_page a {
+    float: left;
+    background: #fff;
+    font-size: 1.3em;
+    line-height: 1em;
+    padding: .46em .73em;
+    color: #4c4c4c;
+    margin-right: .69em;
+}
+.huan_page .active {
+    color: #b81b22;
+}
+
+.huan_page a {
+    float: left;
+    background: #fff;
+    font-size: 1.3em;
+    line-height: 1em;
+    padding: .46em .73em;
+    color: #4c4c4c;
+    margin-right: .69em;
+}
+.huan{
+
+	width: 100%;
+	  text-align: center;
+    padding: 3.5em 0;
+}
+.huan .huan_page img, .huan .next img {
+    position: absolute;
+    width: 0.76em;
+    height: 0.46em;
+    right: 1.2em;
+    top: 50%;
+    margin-top: -0.23em;
+    margin-left: 0.5em;
+}
+/*<div class="huan_page-wrap">
+				<div class="huan_page clear">
+					<a class="prev" href="javascript:;">上一页
+						<!--<img src="../../../Content/H5/img/up_sword.png" alt="">-->
+					</a>
+					<a class="active" href="#">1</a>
+					<a href="#>2</a>
+					<a href="#>3</a>
+					<a class="next" href="#">下一页
+						<!--<img src="../../../Content/H5/img/down_sword.png" alt="">-->
+					</a>
+				</div>
+			</div>
+			
+			* 
+			* 
+			* 
+			* 	<div class="huan_page-wrap">
+				<div class="huan_page clear">
+				</div>
+			* 
+			* 
+			* 
+			* 
+			* 
+			* 
+			* 
+			* 
+			* */

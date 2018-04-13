@@ -1,0 +1,206 @@
+{
+  "home_swiper": [
+    { "src": "http://i9.m.vancl.com/wap/2018_3_15_16_40_40_9136_640x402.jpg" },
+    { "src": "http://i7.m.vancl.com/wap/2018_3_14_10_26_26_7422_640x402.jpg" },
+    { "src": "http://i1.m.vancl.com/wap/2018_3_12_17_6_27_1827_640x402.jpg" },
+    { "src": "http://i3.m.vancl.com/wap/2018_3_15_16_57_26_3336_640x402.jpg" },
+    { "src": "http://i2.m.vancl.com/wap/2018_3_13_14_43_43_2976_640x402.jpg" }
+  ],
+  "home_msg1": [
+    {"tit_img": "http://i1.m.vancl.com/oms/2018_3_2_16_19_31_1730_750x396.jpg"},
+    {"arr_img": [
+        {
+          "imgTitle":"POLO衫 色织条领 男款 白色",
+          "earnest": 9,
+          "final": 149,
+          "price": 79,
+          "originCost": 158,
+          "src": "http://i.vanclimg.com/276/356/q80/product/6/3/7/6379624/mid/6379624-1j201801171012111014.jpg"
+        },
+        {
+          "imgTitle":"T恤 科学怪人 弗兰肯斯坦新娘 白色",
+          "earnest": 9,
+          "final": 149,
+          "price": 49,
+          "originCost": 98,
+          "src": "http://i.vanclimg.com/276/356/q80/product/6/3/7/6379751/mid/6379751-1j201803120952009871.jpg"
+        },
+        {
+          "imgTitle":"T恤 科学怪人 飞行员 白色",
+          "earnest": 9,
+          "final": 149,
+          "price": 49,
+          "originCost": 98,
+          "src": "http://i.vanclimg.com/276/356/q80/product/6/3/7/6379752/mid/6379752-1j201803120952211124.jpg"
+        },
+        {
+          "imgTitle":"T恤 科学怪人 怪博士 白色",
+          "earnest": 9,
+          "final": 149,
+          "price": 49,
+          "originCost": 98,
+          "src": "http://i.vanclimg.com/276/356/q80/product/6/3/7/6379753/mid/6379753-1j201803120952409876.jpg"
+        },
+        {
+          "imgTitle":"T恤 科学怪人 觅友 白色",
+          "earnest": 9,
+          "final": 149,
+          "price": 49,
+          "originCost": 98,
+          "src": "http://i.vanclimg.com/276/356/q80/product/6/3/7/6379754/mid/6379754-1j201803120953059878.jpg"
+        },
+        {
+          "imgTitle":"T恤 科学怪人 实验 白色",
+          "earnest": 9,
+          "final": 149,
+          "price": 49,
+          "originCost": 98,
+          "src": "http://i.vanclimg.com/276/356/q80/product/6/3/7/6379755/mid/6379755-1j201803120953309880.jpg"
+        },
+        {
+          "imgTitle":"T恤 科学怪人 瓶瓶 白色",
+          "earnest": 9,
+          "final": 149,
+          "price": 49,
+          "originCost": 98,
+          "src": "http://i.vanclimg.com/276/356/q80/product/6/3/7/6379756/mid/6379756-1j201803120953511133.jpg"
+        }
+      ]}
+  ],
+  "home_msg2": [
+    {"tit_img": "http://i2.m.vancl.com/oms/2018_3_12_17_31_13_2727_750x396.jpg"},
+    {"arr_img": [
+        {
+          "imgTitle":"POLO衫 色织条领 男款 白色",
+          "earnest": 9,
+          "final": 149,
+          "price": 79,
+          "originCost": 158,
+          "src": "http://i.vanclimg.com/276/356/q80/product/6/3/7/6379617/mid/6379617-1j201801091033557048.jpg"
+        },
+        {
+          "imgTitle":"T恤 科学怪人 弗兰肯斯坦新娘 白色",
+          "earnest": 9,
+          "final": 149,
+          "price": 49,
+          "originCost": 98,
+          "src": "http://i.vanclimg.com/276/356/q80/product/6/3/7/6379618/mid/6379618-1j201801091034160812.jpg"
+        },
+        {
+          "imgTitle":"T恤 科学怪人 飞行员 白色",
+          "earnest": 9,
+          "final": 149,
+          "price": 49,
+          "originCost": 98,
+          "src": "http://i.vanclimg.com/276/356/q80/product/6/3/7/6379619/mid/6379619-1j201801091035060849.jpg"
+        },
+        {
+          "imgTitle":"T恤 科学怪人 怪博士 白色",
+          "earnest": 9,
+          "final": 149,
+          "price": 49,
+          "originCost": 98,
+          "src": "http://i.vanclimg.com/276/356/q80/product/6/3/7/6379775/mid/6379775-1j201801181622429532.jpg"
+        },
+        {
+          "imgTitle":"T恤 科学怪人 觅友 白色",
+          "earnest": 9,
+          "final": 149,
+          "price": 49,
+          "originCost": 98,
+          "src": "http://i.vanclimg.com/276/356/q80/product/6/3/7/6379768/mid/6379768-1j201801161036544135.jpg"
+        },
+        {
+          "imgTitle":"T恤 科学怪人 实验 白色",
+          "earnest": 9,
+          "final": 149,
+          "price": 49,
+          "originCost": 98,
+          "src":"http://i.vanclimg.com/276/356/q80/product/6/3/7/6379776/mid/6379776-1j201801181633229526.jpg"
+        }
+      ]}
+  ],
+  "customization_imgslide1":[
+    {"src":"http://i4.m.vancl.com/oms/2017_9_18_9_29_15_4206_224x472.jpg"},
+    {"src":"http://i1.m.vancl.com/oms/2017_9_21_15_46_31_1812_224x472.jpg"},
+    {"src":"http://i3.m.vancl.com/oms/2017_9_18_9_29_19_3224_224x472.jpg"},
+    {"src":"http://i3.m.vancl.com/oms/2017_9_18_9_29_19_3780_224x472.jpg"},
+    {"src":"http://i8.m.vancl.com/oms/2017_9_27_16_46_2_8611_224x472.jpg"}
+  ],
+  "customization_imgslide2":[
+    {"src":"http://i7.m.vancl.com/oms/2017_9_18_9_37_12_7429_224x472.jpg"},
+    {"src":"http://i9.m.vancl.com/oms/2017_9_18_9_37_15_9075_224x472.jpg"},
+    {"src":"http://i1.m.vancl.com/oms/2017_9_18_9_37_15_1235_224x472.jpg"},
+    {"src":"http://i1.m.vancl.com/oms/2017_9_18_9_37_15_1758_224x472.jpg"},
+    {"src":"http://i2.m.vancl.com/oms/2017_9_18_9_37_16_2282_224x472.jpg"}
+  ],
+  "customization_imgslide3":[
+    {"src":"http://i5.m.vancl.com/oms/2017_9_18_9_42_6_5732_224x472.jpg"},
+    {"src":"http://i8.m.vancl.com/oms/2017_9_18_9_42_9_8861_224x472.jpg"},
+    {"src":"http://i2.m.vancl.com/oms/2017_9_18_9_42_9_2241_224x472.jpg"},
+    {"src":"http://i2.m.vancl.com/oms/2017_9_18_9_42_9_2798_224x472.jpg"},
+    {"src":"http://i9.m.vancl.com/oms/2017_9_18_9_42_9_9766_224x472.jpg"}
+  ],
+  "customization_imgslide4":[
+    {"src":"http://i7.m.vancl.com/oms/2017_9_18_9_46_7_7170_224x472.jpg"},
+    {"src":"http://i7.m.vancl.com/oms/2017_9_18_9_46_10_7790_224x472.jpg"},
+    {"src":"http://i1.m.vancl.com/oms/2017_9_18_9_46_10_1171_224x472.jpg"},
+    {"src":"http://i4.m.vancl.com/oms/2017_9_18_9_46_10_4235_224x472.jpg"},
+    {"src":"http://i2.m.vancl.com/oms/2017_9_18_9_46_11_2076_224x472.jpg"}
+  ],
+  "customization_imgslide5":[
+    {"src":"http://i6.m.vancl.com/oms/2017_9_18_9_53_54_6569_224x472.jpg"},
+    {"src":"http://i4.m.vancl.com/oms/2017_9_18_9_53_56_4552_224x472.jpg"},
+    {"src":"http://i5.m.vancl.com/oms/2017_9_18_9_53_56_5947_224x472.jpg"},
+    {"src":"http://i2.m.vancl.com/oms/2017_9_18_9_53_56_2567_224x472.jpg"}
+  ],
+  "customization_imgsix1":[
+    {"src":"http://i7.m.vancl.com/q80/wap/2017_11_28_14_34_10_6033.jpg"},
+    {"src":"http://i7.m.vancl.com/q80/wap/2017_12_1_10_27_32_8951.jpg"},
+    {"src":"http://i6.m.vancl.com/q80/wap/2017_9_18_9_4_26_3211.jpg"},
+    {"src":"http://i5.m.vancl.com/q80/wap/2017_9_18_9_4_36_1805.jpg"}
+  ],
+  "customization_imgsix2":[
+    {"src":"http://i7.m.vancl.com/q80/wap/2017_9_18_9_6_52_8837.jpg"},
+    {"src":"http://i4.m.vancl.com/q80/wap/2017_9_18_9_5_45_2273.jpg"},
+    {"src":"http://i3.m.vancl.com/q80/wap/2017_9_18_9_5_55_4980.jpg"},
+    {"src":"http://i9.m.vancl.com/q80/wap/2017_9_28_15_50_34_9577.jpg"}
+  ],
+  "customization_imgsix3":[
+    {"src":"http://i7.m.vancl.com/q80/wap/2017_9_29_11_0_11_7814.jpg"},
+    {"src":"http://i7.m.vancl.com/q80/wap/2017_9_29_11_0_23_3486.jpg"},
+    {"src":"http://i3.m.vancl.com/q80/wap/2017_9_18_9_7_28_4982.jpg"},
+    {"src":"http://i3.m.vancl.com/q80/wap/2017_9_18_14_36_38_4916.jpg"}
+  ],
+  "customization_imgsix4":[
+    {"src":"http://i7.m.vancl.com/q80/wap/2017_9_18_9_9_13_8912.jpg"},
+    {"src":"http://i2.m.vancl.com/q80/wap/2017_9_18_9_10_4_9169.jpg"},
+    {"src":"http://i9.m.vancl.com/q80/wap/2017_9_18_9_10_19_6031.jpg"},
+    {"src":"http://i2.m.vancl.com/q80/wap/2017_9_18_9_10_33_9130.jpg"}
+  ],
+  "customization_imgsix5":[
+    {"src":"http://i6.m.vancl.com/q80/wap/2017_11_28_14_34_29_6701.jpg"},
+    {"src":"http://i1.m.vancl.com/q80/wap/2017_11_9_14_20_7_9927.jpg"},
+    {"src":"http://i7.m.vancl.com/q80/wap/2017_11_9_14_20_14_1234.jpg"},
+    {"src":"http://i5.m.vancl.com/q80/wap/2017_11_9_14_20_20_7493.jpg"}
+  ],
+  "customization_imgsix6":[
+    {"src":"http://i7.m.vancl.com/q80/wap/2017_9_26_16_23_30_6065.jpg"},
+    {"src":"http://i2.m.vancl.com/q80/wap/2017_9_26_16_24_4_554.jpg"},
+    {"src":"http://i1.m.vancl.com/q80/wap/2017_9_26_16_23_47_5017.jpg"},
+    {"src":"http://i4.m.vancl.com/q80/wap/2017_9_26_16_23_58_6804.jpg"}
+  ],
+  "channel_img":[
+    {"src":"http://i7.m.vancl.com/q80/wap/2018_3_15_16_56_20_3850.jpg"},
+    {"src":"http://i8.m.vancl.com/q80/wap/2017_4_17_15_59_31_7139.jpg"},
+    {"src":"http://i9.m.vancl.com/q80/wap/2017_4_17_15_59_44_9515.jpg"},
+    {"src":"http://i8.m.vancl.com/q80/wap/2018_1_30_14_49_39_2321.jpg"},
+    {"src":"http://i9.m.vancl.com/q80/wap/2017_7_14_15_1_43_5900.jpg"},
+    {"src":"http://i7.m.vancl.com/q80/wap/2017_4_17_16_0_12_6315.jpg"},
+    {"src":"http://i2.m.vancl.com/q80/wap/2017_10_11_18_16_13_8829.jpg"},
+    {"src":"http://i5.m.vancl.com/q80/wap/2017_9_1_16_10_20_2364.jpg"},
+    {"src":"http://i3.m.vancl.com/q80/wap/2017_5_17_16_21_59_212.jpg"},
+    {"src":"http://i1.m.vancl.com/q80/wap/2017_4_26_16_6_0_4593.jpg"},
+    {"src":"http://i1.m.vancl.com/q80/wap/2018_2_7_14_47_56_3877.jpg"}
+  ]
+}

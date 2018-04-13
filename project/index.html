@@ -1,0 +1,242 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1.0,user-scalable=no"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Swiper/4.0.2/css/swiper.min.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Swiper/4.0.2/js/swiper.js"></script>
+    <title>project</title>
+    <style>
+      html, body {
+        background: #fff;
+        width: 100%;
+        height: 100%;
+      }
+      /*css 初始化 */
+      html, body, ul, li, ol, dl, dd, dt, p, h1, h2, h3, h4, h5, h6, form, fieldset, legend, img {
+        margin: 0;
+        padding: 0;
+      }
+
+      fieldset, img, input, button {
+        border: none;
+        padding: 0;
+        margin: 0;
+        outline-style: none;
+      }
+
+      ul, ol {
+        list-style: none;
+      }
+
+      input {
+        padding-top: 0;
+        padding-bottom: 0;
+        font-family: "SimSun", "宋体";
+      }
+
+      select, input {
+        vertical-align: middle;
+      }
+
+      select, input, textarea {
+        font-size: 12px;
+        margin: 0;
+      }
+      textarea {
+        resize: none;
+      }
+
+      /*防止拖动*/
+      img {
+        border: 0;
+        vertical-align: middle;
+      }
+
+      /*  去掉图片低测默认的3像素空白缝隙*/
+      table {
+        border-collapse: collapse;
+      }
+
+      body {
+        /*font: 12px/150% Arial, Verdana, "\5b8b\4f53";*/
+        font-family: "Helvetica Neue", Helvetica, STHeiTi, sans-serif;
+        color: #666;
+        background: #fff
+      }
+      /*h1, h2, h3, h4, h5, h6 {*/
+        /*text-decoration: none;*/
+        /*font-weight: normal;*/
+        /*font-size: 100%;*/
+      /*}*/
+
+      s, i, em {
+        font-style: normal;
+        text-decoration: none;
+      }
+      a {
+        text-decoration: none;
+        color: #4c4c4c;
+      }
+      /*自适应*/
+      @media only screen and (max-width:300px) {
+        html,
+        body {
+          font-size: 9.375px
+        }
+      }
+
+      @media only screen and (max-width:310px) and (min-width:300px) {
+        html,
+        body {
+          font-size: 9.375px
+        }
+      }
+
+      @media only screen and (max-width:320px) and (min-width:310px) {
+        html,
+        body {
+          font-size: 9.6875px
+        }
+      }
+
+      @media only screen and (max-width:350px) and (min-width:320px) {
+        html,
+        body {
+          font-size: 10px
+        }
+      }
+
+      @media only screen and (max-width:360px) and (min-width:350px) {
+        html,
+        body {
+          font-size: 10.9375px
+        }
+      }
+
+      @media only screen and (max-width:400px) and (min-width:360px) {
+        html,
+        body {
+          font-size: 11.25px
+        }
+      }
+
+      @media only screen and (max-width:470px) and (min-width:400px) {
+        html,
+        body {
+          font-size: 12.5px;
+        }
+      }
+
+      @media only screen and (max-width:480px) and (min-width:470px) {
+        html,
+        body {
+          font-size: 14.6875px
+        }
+      }
+
+      @media only screen and (max-width:540px) and (min-width:480px) {
+        html,
+        body {
+          font-size: 15px
+        }
+      }
+
+      @media only screen and (max-width:560px) and (min-width:540px) {
+        html,
+        body {
+          font-size: 16.875px
+        }
+      }
+
+      @media only screen and (max-width:570px) and (min-width:560px) {
+        html,
+        body {
+          font-size: 17.5px
+        }
+      }
+
+      @media only screen and (max-width:630px) and (min-width:570px) {
+        html,
+        body {
+          font-size: 17.8125px
+        }
+      }
+
+      @media only screen and (max-width:640px) and (min-width:630px) {
+        html,
+        body {
+          font-size: 19.6875px
+        }
+      }
+
+      @media only screen and (min-width:640px) {
+        html,
+        body {
+          font-size: 20px
+        }
+      }
+      /*通用基本属性*/
+      .right {
+        float: right;
+      }
+      .left {
+        float: left;
+      }
+      .name {
+        color: #4c4c4c;
+        font-size: 1.2em;
+        margin-right: 1.5em;
+        max-width: 16.5em;
+      }
+      /*验证码*/
+      .dynamic {
+        float: right;
+        margin-top: 1.9em;
+        width: 7.6em;
+        height: 2.6em;
+        line-height: 2.6em;
+        text-align: center;
+        color: #b71c22;
+        font-size: 1.2em;
+        border: 2px solid #b2b2b2;
+        border-radius: 4px;
+        background: #fff;
+      }
+      .code {
+        float: right;
+        margin-top: 2.2em;
+        width: 7.8em;
+        height: 3.2em;
+      }
+      /*按钮*/
+      button {
+        position: relative;
+        float: left;
+        width: 50%;
+        line-height: 3em;
+        text-align: center;
+        font-size: 1.2em;
+        color: #666;
+        background: #ffffff;
+      }
+
+      .affirm {
+        display: block;
+        margin-top: 1em;
+        padding: .8em 0;
+        text-align: center;
+        border-radius: 2px;
+        font-size: 1.6em;
+        color: #fff;
+        background: #b81b22;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="app"></div>
+    <!-- built files will be auto injected -->
+
+  </body>
+</html>
+

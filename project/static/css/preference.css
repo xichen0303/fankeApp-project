@@ -1,0 +1,94 @@
+body,h1,h2,h3,h4,h5,h6,p,a,input,img,ul,li,ol,dl,dt,dd{padding:0;margin:0;}
+li{list-style:none;}
+img{display:block;border:0;}
+header,footer,section,nav{display:block;}
+body{color:#3e3e3e;}
+a{text-decoration:none;}
+*{box-sizing:border-box;}
+html,body{
+  height: 100%;
+  /*font-size: 26.67vw;*/
+      font-size: 11.25px;
+  }
+  h1, h2 {
+  font-weight: normal;
+  height: 4rem;
+  font-size:2rem;
+  background: green;
+}
+.preference-top-img{
+    width: 100%;
+    overflow: hidden;
+    font-size: 1.5em;
+    color: #4C4C4C;
+    padding-top: 2px;
+    text-align: center;
+}
+.preference-top-img a img{
+    width: 100%;
+  }
+.preference-top-img a {
+    display: block;
+    text-decoration: none;
+}
+
+.topiclist-2 {
+    width: 100%;
+    overflow: hidden;
+    font-size: 1.5em;
+    color: #4C4C4C;
+    margin-bottom:1rem;
+}
+
+.clearfix {
+    zoom: 1;
+}
+.clearfix, .clear {
+    zoom: 1;
+}
+.smal_top img {
+  width: 100%;
+    margin-bottom: 0.8rem;
+}
+.topiclist-2 > div:nth-child(2n+1), .productlist-2 > dl:nth-child(2n+1) {
+    margin-left: -1px;
+    float: left;
+    width: 50%;
+}
+
+
+.topiclist-2 .topic {
+    width: 50%;
+    float: left;
+}
+.topic {
+    padding-top: 2px;
+    text-align: center;
+}
+.topiclist-2 .topic {
+    width: 50%;
+    float: left;
+}
+.topiclist-2 .topic a {
+    display: block;
+    text-decoration: none;
+}
+.topiclist-2 .topic a img{
+  width: 100%;
+
+}
+.topiclist-2 {
+    width: 100%;
+    overflow: hidden;
+    font-size: 1.5em;
+    color: #4C4C4C;
+}
+.sml-img img {
+    width: 100%;
+    margin-bottom: 0.8rem;
+}
+
+.sml-imgimg {
+    width: 100%;
+    margin-bottom: 0.8rem;
+}
